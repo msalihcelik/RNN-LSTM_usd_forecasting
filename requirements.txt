@@ -1,0 +1,8 @@
+pandas
+keras
+tensorflow
+matplotlib
+tkinter
+bs4
+plotly
+datetime
