@@ -106,4 +106,4 @@ close_train = close_train.reshape((-1))
 close_test = close_test.reshape((-1))
 prediction = prediction.reshape((-1))
 
-model.save("lstmf2.h5")
+model.save("lstmf.h5")
